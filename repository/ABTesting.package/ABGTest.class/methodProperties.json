@@ -1,0 +1,27 @@
+{
+	"instance" : {
+		"aYes:" : "PaulDeBruicker 3/30/2010 23:11",
+		"aNo:" : "PaulDeBruicker 3/30/2010 23:11",
+		"gTest" : "PaulDeBruicker 3/31/2010 14:13",
+		"pValue" : "PaulDeBruicker 3/31/2010 14:11",
+		"total" : "PaulDeBruicker 3/30/2010 23:12",
+		"yes" : "PaulDeBruicker 3/30/2010 23:11",
+		"expectedAYes" : "PaulDeBruicker 3/31/2010 14:13",
+		"pValue:" : "PaulDeBruicker 3/30/2010 23:28",
+		"aYes" : "PaulDeBruicker 3/30/2010 23:11",
+		"bNo" : "PaulDeBruicker 3/30/2010 23:11",
+		"no" : "PaulDeBruicker 3/30/2010 23:12",
+		"expectedANo" : "PaulDeBruicker 3/31/2010 14:12",
+		"a" : "PaulDeBruicker 3/30/2010 23:11",
+		"bNo:" : "PaulDeBruicker 3/30/2010 23:11",
+		"expectedBYes" : "PaulDeBruicker 3/31/2010 14:13",
+		"bYes:" : "PaulDeBruicker 3/30/2010 23:11",
+		"bYes" : "PaulDeBruicker 3/30/2010 23:11",
+		"aNo" : "PaulDeBruicker 3/30/2010 23:11",
+		"b" : "PaulDeBruicker 3/30/2010 23:11",
+		"expectedBNo" : "PaulDeBruicker 3/31/2010 14:13"
+	},
+	"class" : {
+		"getPValueWithAYes:aNo:bYes:bNo:" : "PaulDeBruicker 3/30/2010 23:31"
+	}
+}

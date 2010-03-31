@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "PaulDeBruicker 3/31/2010 12:12",
+	"super" : "WAComponent",
+	"category" : "ABTesting",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"tests",
+		"testTable"
+	],
+	"name" : "ABDashboard",
+	"type" : "normal"
+}

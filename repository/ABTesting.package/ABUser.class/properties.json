@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "PaulDeBruicker 3/31/2010 17:10",
+	"super" : "Object",
+	"category" : "ABTesting",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"abTests"
+	],
+	"name" : "ABUser",
+	"type" : "normal"
+}
