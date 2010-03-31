@@ -1,1 +1,1 @@
-This is just a User class for testing the AB Testing package.  You should just add a #abTests Dictionary to your user class for your application.  
+This is just a User class for testing the AB Testing package.  

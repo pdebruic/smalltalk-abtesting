@@ -1,4 +1,4 @@
-The user should see the same result each visit or page view until a winner has been declared.  The user needs #abtests Dictionary to store what they should see for each test.  
+The user should see the same result each visit or page view until a winner has been declared. 
 
 Set #winner equal to a non nil value to stop the test and use the winning result.  
 
