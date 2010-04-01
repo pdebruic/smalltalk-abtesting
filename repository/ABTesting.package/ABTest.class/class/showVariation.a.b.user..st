@@ -11,10 +11,10 @@ show ifNil:[
 				(user includesKey: aTestName)
 					 ifTrue:[ show:=user at: aTestName] 
 					ifFalse:[show:=test getAorB.
-							user at: aTestName put: show].
+							user at: aTestName put: show.
 					
 				(show=optionA )
 					ifTrue:[test aViews: test aViews +1]
-					ifFalse:[test bViews: test bViews +1].
+					ifFalse:[test bViews: test bViews +1]].
 				tests at: aTestName put: test.].
 	^show

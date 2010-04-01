@@ -43,14 +43,15 @@
 		"a:" : "PaulDeBruicker 3/31/2010 10:25"
 	},
 	"class" : {
-		"DesiredConfidenceLevel" : "PaulDeBruicker 3/31/2010 13:59",
-		"DesiredConfidenceLevel:" : "PaulDeBruicker 3/31/2010 13:59",
-		"users" : "PaulDeBruicker 3/31/2010 17:46",
-		"recordConversion:by:" : "PaulDeBruicker 3/31/2010 17:55",
 		"newTest:a:b:" : "PaulDeBruicker 3/31/2010 10:55",
-		"users:" : "PaulDeBruicker 3/31/2010 17:46",
-		"showVariation:a:b:user:" : "PaulDeBruicker 3/31/2010 17:55",
 		"tests:" : "PaulDeBruicker 3/31/2010 10:25",
-		"tests" : "PaulDeBruicker 3/31/2010 16:50"
+		"users:" : "PaulDeBruicker 3/31/2010 17:46",
+		"users" : "PaulDeBruicker 3/31/2010 17:46",
+		"showVariation:a:b:user:" : "PaulDeBruicker 4/1/2010 18:15",
+		"recordConversion:by:" : "PaulDeBruicker 4/1/2010 18:17",
+		"initializeNewProject" : "PaulDeBruicker 4/1/2010 11:22",
+		"tests" : "PaulDeBruicker 3/31/2010 16:50",
+		"DesiredConfidenceLevel:" : "PaulDeBruicker 3/31/2010 13:59",
+		"DesiredConfidenceLevel" : "PaulDeBruicker 3/31/2010 13:59"
 	}
 }
