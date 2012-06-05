@@ -1,9 +1,7 @@
 accessing
 getAorB 
-|x|
-x:=a.
 
 
-	(2 atRandom =1) ifFalse:[x:=b].
+	(2 random = 1) ifFalse:[^b].
 	
-^x
+^a

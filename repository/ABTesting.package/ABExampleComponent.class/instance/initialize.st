@@ -1,4 +1,5 @@
 as yet unclassified
 initialize
-	super initiialize.
-	user:=ABUser new.
+	super initialize.
+	user := ABUser new.
+	dashboard := ABExampleDashboard new

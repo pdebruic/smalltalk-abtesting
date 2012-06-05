@@ -4,4 +4,4 @@ initialize
 self initialize
 "
 
-	self registerAsApplication: 'ABExample'
+	self registerAsApplication: 'ABExampleDashboard'

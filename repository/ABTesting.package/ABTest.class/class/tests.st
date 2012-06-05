@@ -1,3 +1,3 @@
 accessing
 tests
-	^ tests
+	^ tests ifNil: [ tests := Dictionary new ]

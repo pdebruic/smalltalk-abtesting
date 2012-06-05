@@ -1,3 +1,3 @@
 accessing
 users
-	^ users
+	^ users ifNil: [ users := Dictionary new ]

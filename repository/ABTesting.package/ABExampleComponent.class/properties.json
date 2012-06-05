@@ -6,7 +6,8 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"user"
+		"user",
+		"dashboard"
 	],
 	"name" : "ABExampleComponent",
 	"type" : "normal"

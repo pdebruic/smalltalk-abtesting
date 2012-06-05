@@ -1,0 +1,15 @@
+{
+	"instance" : {
+		"exampleABTests" : "PaulDeBruicker 6/5/2012 10:50",
+		"initialize" : "PaulDeBruicker 3/31/2010 16:43",
+		"testTable" : "PaulDeBruicker 6/5/2012 10:33",
+		"renderContentOn:" : "PaulDeBruicker 6/5/2012 10:50",
+		"tests:" : "PaulDeBruicker 3/31/2010 00:05",
+		"tests" : "PaulDeBruicker 3/31/2010 16:13",
+		"test:" : "PaulDeBruicker 6/5/2012 10:48"
+	},
+	"class" : {
+		"initialize" : "PaulDeBruicker 6/5/2012 10:32",
+		"canBeRoot" : "PaulDeBruicker 6/5/2012 10:32"
+	}
+}
