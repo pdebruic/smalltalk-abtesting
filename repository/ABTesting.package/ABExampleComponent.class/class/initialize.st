@@ -4,4 +4,4 @@ initialize
 self initialize
 "
 
-	self registerAsApplication: 'ABExample'
+	WAAdmin register: self asApplicationAt: 'ABExample' 
