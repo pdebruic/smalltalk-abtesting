@@ -1,1 +1,1 @@
-SystemOrganization addCategory: #BaselineOfABTesting!
+SystemOrganization addCategory: 'BaselineOfABTesting'!
